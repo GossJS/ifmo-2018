@@ -9,21 +9,25 @@ PZAT-001 / TEST-001
 Асинхронное тестирование, Zombie + Puppeteer  
 ```
 [https://kodaktor.ru/g/07092018](https://kodaktor.ru/g/07092018)
-
+```
 NODE-001 
 Создание простого сервера на простом модуле http
+```
 https://kodaktor.ru/g/14092018
-
+```
 NODE-002 
 Считывание информации из API
+```
 https://kodaktor.ru/g/weather_task
-
+```
 NODE-003
 Считывание информации из RSS
+```
 https://kodaktor.ru/rss_task
-
+```
 NODE-004
 Анализ стрима
+```
 https://github.com/GossJS/stream
 
 CODE-001
