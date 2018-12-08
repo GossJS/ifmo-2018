@@ -29,6 +29,13 @@ NODE-004
 Анализ стрима
 ```
 https://github.com/GossJS/stream
+
+```
+GZIP-0001
+Созданиие зипующего стрима
+```
+https://kodaktor.ru/g/zip_5ce7b 
+
 ```
 CODE-001
 Хакатон с отправкой зашифрованного сообщения
